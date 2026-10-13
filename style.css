@@ -27,7 +27,7 @@ body {
 header {
     background-color: var(--navy);
     padding: 1rem 2rem;
-    border-bottom: 2px solid var(--gold);
+    border-bottom: 3px solid var(--gold);
 }
 
 nav {
