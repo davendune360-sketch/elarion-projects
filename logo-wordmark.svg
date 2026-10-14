@@ -4,7 +4,7 @@
     <text
         x="600" y="280"
         text-anchor="middle"
-        font-family="Arial, sans-serif"
+       font-family="Manrope, Arial, sans-serif"
         font-size="96"
         font-weight="700"
         fill="#F8FAFC"
@@ -16,7 +16,7 @@
     <text
         x="600" y="400"
         text-anchor="middle"
-        font-family="Arial, sans-serif"
+       font-family="Manrope, Arial, sans-serif"
         font-size="36"
         font-style="italic"
         fill="#F4B942"

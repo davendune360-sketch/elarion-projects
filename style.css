@@ -17,7 +17,7 @@ html, body {
 
 body {
     margin: 0;
-    font-family: Arial, sans-serif;
+    font-family: 'Manrope',Arial, sans-serif;
     background-color: var(--off-white);
     color: var(--slate);
 }
