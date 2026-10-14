@@ -326,7 +326,12 @@ nav a:focus{
     width: 100%;
     height: 100%;
     object-fit: cover;
+    object-position: center 70%;
     display: block;
+}
+
+.project-card:nth-child(2) .project-image img {
+    object-position: center 90%;
 }
 
 .badge {
